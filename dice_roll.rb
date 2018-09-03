@@ -5,3 +5,5 @@
 def roll
   (1..6).rand()
 end
+
+p roll
